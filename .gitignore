@@ -8,7 +8,7 @@ Gemfile.lock
 _site
 
 # draft
-_draft
+_draft/
 
 # RubyGems
 *.gem

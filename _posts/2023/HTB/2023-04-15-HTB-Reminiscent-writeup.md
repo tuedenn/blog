@@ -93,9 +93,7 @@ Bức tranh bắt đầu rõ ràng hơn. Powershell spawn powershell. Tiếp t�
 
 Bạn thu được flag, có thể coi đó là xong, nếu bạn nghĩ đơn giản là đố, giải đố.
 
-Nhưng nếu bạn nghĩ xa hơn thì sao? Case này có ứng dụng gì trong thực tế? 
-
-Nếu bạn nghĩ được như thế thì rất tuyệt vời, mindset bạn rất tốt. Trong trường hợp tôi đang là người phỏng vấn bạn, bạn đã được 1 điểm cộng lớn!
+Nhưng nếu bạn nghĩ xa hơn thì sao? Case này có ứng dụng gì trong thực tế? Nếu bạn nghĩ được như thế thì rất tuyệt vời, mindset bạn rất tốt. Tôi nghĩ bạn sẽ tiến xa trong lĩnh vực này!
 
 > Đây là 1 scenario có thể gọi là khá kinh điển trong thực tế, tôi tạm dừng không phân tích chi tiết đoạn code powershell kia thực hiện hành vi gì. Thay vào đó, tôi coi đấy là 1 thử thách cho bạn tự phân tích. Tôi khuyên bạn nên tìm hiểu về powershell, và đào sâu phân tích xem cụ thể đoạn code này thực hiện những hành vi gì. Sau đó xâu chuỗi lại, vẽ ra 1 bức tranh về cuộc tấn công, gọi là attack map. Như thế chắc chắn bạn sẽ học được rất nhiều.
 {: .prompt-tip }
